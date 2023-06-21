@@ -1,13 +1,8 @@
 ---
-layout: page
+layout: Post
 title: About
 permalink: /elektronik/
 ---
-Das ist ein kleiner Blog über unsere gemeinsame Reise, Eindrücke und sonstige Gedanken.
+Hier möchte ich ein paar kleine Bastel-Projekte vorstellen
 
 ### More Information
-
-Das ist ein Test
-### Contact me
-
-[nils@vita-foris-est.com](mailto:nils@vita-foris-est.com)

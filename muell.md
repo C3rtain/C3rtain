@@ -3,11 +3,9 @@ layout: page
 title: About
 permalink: /muell/
 ---
-Das ist ein kleiner Blog über unsere gemeinsame Reise, Eindrücke und sonstige Gedanken.
+Hier soll es um das Müllsammeln gehen, skurrile Eindeckungen und spannende Erfahrungen...
 
 ### More Information
-
-Das ist ein Test
-### Contact me
+comming soon
 
 [nils@vita-foris-est.com](mailto:nils@vita-foris-est.com)

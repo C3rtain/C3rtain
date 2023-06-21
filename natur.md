@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /natur/
 ---
-Das ist ein kleiner Blog über unsere gemeinsame Reise, Eindrücke und sonstige Gedanken.
+hier philosophiere ich über die Natur, Wildkräuter, Pilze und verschiedene Erlebnisse. 
 
 ### More Information
 

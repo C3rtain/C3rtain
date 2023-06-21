@@ -1,13 +1,11 @@
 ---
 layout: page
 title: About
-permalink: /Bilder/
+permalink: /bilder/
 ---
-Das ist ein kleiner Blog über unsere gemeinsame Reise, Eindrücke und sonstige Gedanken.
+Hier teile ich Bilder und Inspirationen
 
 ### More Information
-
-Das ist ein Test
-### Contact me
+comming soon
 
 [nils@vita-foris-est.com](mailto:nils@vita-foris-est.com)
