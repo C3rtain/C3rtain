@@ -14,7 +14,8 @@ Also auf geht's!!!
 ### 1. Ein guter Klappspaten
 
   Wir haben einen Feldspaten von Glock im Einsatz dieser hat sich bei uns bisher sehr gut bewährt und ist wirklich ziemlich stabil und auch sehr widerstandsfähig.
-  ![Klappspaten](/assets/images/spaten.jpeg){: width="250" }
+
+  ![Klappspaten](/images/spaten.jpeg){: width="250" }
 
 
 ### 2. Ein flexibler Wasseranschluss
